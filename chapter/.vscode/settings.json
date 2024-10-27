@@ -1,0 +1,5 @@
+{
+    "fileheader.configObj": {
+        "autoAdd": false, // 默认开启
+    },
+}
